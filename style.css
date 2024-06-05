@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    color: green;
+    margin: 0;
+    padding: 0;
+    
+}
+
+table {
+    width: 100%; /* Adjust width as needed */
+    border-collapse: collapse; /* Key for single-walled effect */
+    height:100vh;
+    border-top: 0px;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #f2f2f2; /* Optional header background */
+}
