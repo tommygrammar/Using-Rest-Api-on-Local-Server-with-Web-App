@@ -6,6 +6,4 @@ store index.html in template folder
 
 store javascript file and css file in static folder
 
-should work well
-
-have fun figuring it out
+have fun
